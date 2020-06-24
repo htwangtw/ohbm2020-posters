@@ -1153,7 +1153,8 @@
    "number": 411
   },
   {
-   "number": 412
+   "number": 412,
+   "pdf": "https://cdn-akamai.6connex.com//645/1827//Depersonalisation_psychosis_poster_15922317017051649.pdf"
   },
   {
    "number": 413
@@ -2005,7 +2006,8 @@
    "number": 724
   },
   {
-   "number": 725
+   "number": 725,
+   "pdf": "https://drive.google.com/file/d/1mQBYy2Khab52oIdCQ93UT-HQVmvbhdoH/view?usp=sharing"
   },
   {
    "number": 726
@@ -2788,7 +2790,8 @@
    "number": 1001
   },
   {
-   "number": 1002
+   "number": 1002,
+   "pdf": "https://zenodo.org/record/3905326#.XvOLGy2ZPs0"
   },
   {
    "number": 1003
@@ -2953,7 +2956,8 @@
    "number": 1056
   },
   {
-   "number": 1057
+   "number": 1057,
+   "pdf": "https://cdn-akamai.6connex.com//645/1827//ohbm2020_boudreau_FINAL_15921677822526191.pdf"
   },
   {
    "number": 1058
@@ -3031,7 +3035,8 @@
    "number": 1082
   },
   {
-   "number": 1083
+   "number": 1083,
+   "pdf": "https://github.com/ME-ICA/tedana-ohbm-2020"
   },
   {
    "number": 1084
@@ -3600,7 +3605,8 @@
    "number": 1281
   },
   {
-   "number": 1282
+   "number": 1282,
+   "pdf": "https://cdn-akamai.6connex.com//645/1827//Bajada2020_VBIndex_OHBM_15919670923334314.pdf"
   },
   {
    "number": 1283
@@ -3657,7 +3663,9 @@
    "number": 1301
   },
   {
-   "number": 1302
+   "number": 1302,
+   "videochat": "<a href=\"https://meet.jit.si/ohbm2020-412\" target=\"_ohbm2020-412\">jitsi:ohbm2020-412</a>",
+   "pdf": "https://cdn-akamai.6connex.com//645/1827//TaskCCA_poster_1__15922324225571065.pdf"
   },
   {
    "number": 1303
@@ -3717,7 +3725,8 @@
    "number": 1322
   },
   {
-   "number": 1324
+   "number": 1324,
+   "pdf": "https://github.com/ramyav97/multi-echo-fMRI-OHBM-2020"
   },
   {
    "number": 1325
@@ -4167,7 +4176,8 @@
    "number": 1481
   },
   {
-   "number": 1482
+   "number": 1482,
+   "pdf": "https://owncloud.gwdg.de/index.php/apps/onlyoffice/s/SxcfCjF1d1QJAm2"
   },
   {
    "number": 1483
@@ -5262,7 +5272,9 @@
    "number": 1859
   },
   {
-   "number": 1860
+   "number": 1860,
+   "videochat": "<a href=\"https://meet.jit.si/DeepPrimateBrainShapes\" target=\"_DeepPrimateBrainShapes\">jitsi:DeepPrimateBrainShapes</a>",
+   "pdf": "https://github.com/katjaq/brainscapes/blob/master/img/Heuer-Toro_BrainScapes_OHBM_2020.pdf"
   },
   {
    "number": 1861
@@ -5361,10 +5373,13 @@
    "number": 1893
   },
   {
-   "number": 1894
+   "number": 1894,
+   "pdf": "https://zenodo.org/record/3905326#.XvOLGy2ZPs0"
   },
   {
-   "number": 1895
+   "number": 1895,
+   "videochat": "<a href=\"https://meet.jit.si/bids-derivatives\" target=\"_bids-derivatives\">jitsi:bids-derivatives</a>",
+   "pdf": "https://cdn-akamai.6connex.com/645/1827/poster_15922429379118925.pdf"
   },
   {
    "number": 1896
@@ -5501,7 +5516,8 @@
    "number": 1939
   },
   {
-   "number": 1940
+   "number": 1940,
+   "pdf": "https://doi.org/10.5281/zenodo.3891834"
   },
   {
    "number": 1941
@@ -5585,7 +5601,9 @@
    "number": 1968
   },
   {
-   "number": 1969
+   "number": 1969,
+   "pdf": "https://cdn-akamai.6connex.com//645/1827//niflow_ohbm_poster_15922399120429567.pdf"
+
   },
   {
    "number": 1970
@@ -5606,7 +5624,8 @@
    "number": 1975
   },
   {
-   "number": 1976
+   "number": 1976,
+   "pdf": "https://doi.org/10.5281/zenodo.3906257"
   },
   {
    "number": 1977
